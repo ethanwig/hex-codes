@@ -1,0 +1,14 @@
+{
+    "light": {
+        "lightmode" : "#BFBDC4",
+        "lightaccentdark" : "#ABAAAF",
+        "lightaccent" : "#CDCBD6",
+        "lighttext" : "#38383d"
+    },
+    "dark": {
+        "darkmode" : "#2b2a33",
+        "darkaccentlight" : "#A1A1A1",
+        "darkaccent" : "#38383d",
+        "darktext" : "#E5EAF5"
+    }
+}
